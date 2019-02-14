@@ -8,5 +8,7 @@ C language
 ## Make it work
 - Move the sgalasso.filler file to players/
 - Run `./filler_vm -m maps/map01 -p1 players/sgalasso.filler -p2 players/[other_player]`
+## Demo
+![](giphy.gif)
 ## Author
 Simon Galasso
