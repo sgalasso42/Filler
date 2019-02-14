@@ -1,6 +1,6 @@
 # filler
 A program that can battle on the filler game</br>
-![](giphy.gif)
+<img src="giphy.gif" width="400"></img>
 ## Built with
 C language
 ## Installing
